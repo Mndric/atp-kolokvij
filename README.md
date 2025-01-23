@@ -1,4 +1,7 @@
 # ATP-Kolokvij
+
+## Kratki opis projekta
+
 Salvador Domingo Felipe Jacinto Dalí i Domènech, Markiz od Pubola ili Salvador Felip Jacint Dalí Domènech, poznat kao Salvador Dalí (Figueras, 11. svibnja 1904. – Torre Galaeta, 23. siječnja 1989.) bio je španjolski slikar, pisac, dizajner i autor filmova.
 
 Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jedan od najpoznatijih predstavnika nadrealizma u slikarstvu, a mnogi stručnjaci smatraju da su na njegov stil utjecali renesansni majstori. Među njegovim opusom najpoznatija je slika Postojanost pamćenja (Mekani satovi) dovršena 1931. koja je, osim po svojoj umjetničkoj vrijednosti, poznata po tome što je korištena u mnogim igranim i animiranim filmovima.
@@ -31,3 +34,18 @@ WEBVTT
 | Naziv | Verzija | Autor |
 |--------|--------|-----------|
 | Kolokvij | Prva | Marija Andrić|
+
+Check lista
+ Kreirati GitHub repozitorij nazvan atp-kolokvij +
+ Dodati naslov projekta (H1) +
+ Dodati kratki opis projekta (H2) – preuzeti tekst s Wikipedije +
+ Dodati sliku – preuzeti s Unsplash ili Pexels +
+ Dodati primjer koda – preuzeti s Gists +
+ Dodati link na izvor slike i teksta +/-
+ Linkati README.md i LICENSE.md (obostrano) -
+ Napraviti popis (numerički i ne-numerički) -
+ Izraditi kratku tablicu s informacijama o projektu +
+ Napraviti commit promjena s odgovarajućom porukom +
+ Otvoriti pull request unutar vlastitog repozitorija -
+ Dodati LICENSE.md datoteku s MIT licencom +/-
+ Aktivirati GitHub Pages za repozitorij -
