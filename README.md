@@ -27,3 +27,7 @@ WEBVTT
 - Opis
 - Slika
 - Kod
+
+| Naziv | Verzija | Autor |
+|--------|--------|-----------|
+| Kolokvij | Prva | Marija Andrić|
